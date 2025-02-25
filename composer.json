@@ -14,9 +14,9 @@
     "type": "library",
   "license": "MIT",
   "require": {
-    "illuminate/support": "^10|^11|12.x-dev|dev-master",
-    "illuminate/routing": "^10|^11|12.x-dev|dev-master",
-    "illuminate/view": "^10|^11|12.x-dev|dev-master",
+    "illuminate/support": "^10|^11|^12",
+    "illuminate/routing": "^10|^11|^12",
+    "illuminate/view": "^10|^11|^12",
     "laravel/serializable-closure": "^1.0|^2.0"
   },
   "require-dev": {
